@@ -1,12 +1,12 @@
 # ServiceMeshDemo
-Repository for the Service mesh demo
-Contents of the Repo
-mygrpcadapter.go - The server file for the adapter
-config.proto - The gRPC file for the inputs to the adapter.
-main.go - The main file starting the server at mygrpcadapter.go
-Dockerfile to prepare the image.
-sample_operator_cfg.yaml
-mygrpcadapter-k8s.yaml
-cutomAdapterTutorial.docx Doc that explains a step by step procedure for setting up the Dev environment.
-
-
+<b>Repository for the Service mesh demo</b> <br/>
+Contents of the Repo <br/>
+<ul>
+  <li>mygrpcadapter.go - The server file for the adapter</li>
+<li>config.proto - The gRPC file for the inputs to the adapter.</li>
+<li>main.go - The main file starting the server at mygrpcadapter.go</li>
+<li>Dockerfile to prepare the image.</li>
+<li>sample_operator_cfg.yaml</li>
+<li>mygrpcadapter-k8s.yaml</li>
+<li>cutomAdapterTutorial.docx Doc that explains a step by step procedure for setting up the Dev environment.</li>
+</ul>
